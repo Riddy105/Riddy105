@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riddy105 a web developer passionate about creating user-friendly, dynamic UIs. 🔃 An intern @bitmamaexchange with solid knowledge of CSS, Tailwind CSS, SASS, JavaScript, React.
+- 👋 Hi, I’m @Riddy105 a web developer passionate about creating user-friendly, dynamic UIs. 🔃 A frontend engineer intern @bitmamaexchange with solid knowledge of CSS, Tailwind CSS, SASS, JavaScript, React, Redux.
 - 🌱 I’m currently building stuffs with ChakraUI & ReactJS
 - 💞️ I’m looking to collaborate on front-end web projects
 - 📫 You can reach me via email: olaniranolatubosun@gmail.com
