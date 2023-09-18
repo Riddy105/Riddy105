@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ridwan, a web developer passionate about creating user-friendly, dynamic UIs. A frontend engineer @bitmamaexchange with solid knowledge of CSS, Tailwind CSS, SASS, JavaScript, React, Redux.
-- 🌱 I’m currently building stuffs with ChakraUI, MaterialUI && ReactJS
+- 🌱 I’m currently building stuffs with ChakraUI, MaterialUI, ReactJS, TypeScript.
 - 💞️ I’m looking to collaborate on front-end web projects
 - 📫 You can reach me via email: olaniranolatubosun@gmail.com
 
